@@ -305,5 +305,5 @@ Input should look like:
 ```
 
 ### Final note:
-I liked that the premise of the client was so imaginative and not a just a typical "build an API to fetch the users of our website". It was pretty fun writing the code for the Matchings file especially. In order to perform the matchings, I stored the veges for each letter in a dictionary by caching the result of each cat in order to make for a sppedier solution. I'm sure there are parts of the code which can be made cleaner and faster, though I tried my best to make a functional project. I also didn't get to the optional user authentication assignment against evil cats. 
-Feel free to reach out through my email (rishi.khare@berkeleu.edu)if you have any questions about the implementation.
+I found it amusing that the premise of the client was so imaginative and not a just a typical "build an API to fetch the users of our website". It was pretty fun writing the code for the Matchings file especially. In order to perform the matchings, I stored the veges for each letter in a dictionary by caching the result of each cat in order to make for a sppedier solution. I'm sure there are parts of the code which can be made cleaner and faster, though I tried my best to make a functional project. I also didn't get to the optional user authentication assignment against evil cats. 
+Feel free to reach out through my email (rishi.khare@berkeleu.edu) if you have any questions about the implementation.
