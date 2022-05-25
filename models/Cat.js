@@ -1,7 +1,7 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 const catsSchema = new mongoose.Schema({
-    catName: String
+  catName: String,
 });
 
-module.exports = mongoose.model('Cat', catsSchema);
+module.exports = mongoose.model("Cat", catsSchema);

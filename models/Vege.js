@@ -1,7 +1,7 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 
 const vegesSchema = new mongoose.Schema({
-    vegeName: String
+  vegeName: String,
 });
 
-module.exports = mongoose.model('Vege', vegesSchema);
+module.exports = mongoose.model("Vege", vegesSchema);
